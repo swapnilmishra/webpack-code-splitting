@@ -1,6 +1,6 @@
 # webpack-code-splitting
 
-Boilerplace to split code basis **require** in webpack.
+Boilerplace to split code basis **require** using webpack.
 
 This can be used in conjunction with a routing library to lazily load the code or can be loaded on an event.
 
