@@ -1,0 +1,14 @@
+input{
+    height: 50px;
+    width: 200px;
+    border: 1px solid grey;
+    display: block; 
+}
+
+button{
+    height: 50px;
+    width: 200px;
+    background-color:grey;
+    color: #fff;
+    border: none;
+}

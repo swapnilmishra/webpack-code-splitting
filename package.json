@@ -1,0 +1,17 @@
+{
+  "name": "webpack-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --progress --colors"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bundle-loader": "^0.5.4",
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  }
+}
