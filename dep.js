@@ -3,7 +3,7 @@ function bindTextEvent() {
     text.addEventListener('focus', function () {
         var load = require("bundle?lazy!./asyncscript.js")
         load(function(asyncscript){
-            console.log(asyncscript.hello())
+            alert(asyncscript.hello())
         })
     })
 }
