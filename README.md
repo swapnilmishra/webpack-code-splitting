@@ -9,8 +9,7 @@ Here _dep.js_ is asyncronously loading _asyncscript.js_ on click of button which
 **How to Run**
 
 ``
-npm install
-npm run build
+npm install && npm run build
 ``
 
 Open _index.html_. Click on button _load script_.
