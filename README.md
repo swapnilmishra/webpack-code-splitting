@@ -1,6 +1,6 @@
 # webpack-code-splitting
 
-Boilerplace to split code basis **require** using webpack.
+Boilerplate to split code based on **require** using webpack.
 
 
 **Use case**
